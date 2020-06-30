@@ -2,4 +2,4 @@
 import bs4 requests 
 
 print ("Enter the URL to scrap: ")
-
+input("")
